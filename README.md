@@ -20,3 +20,4 @@ Bu proje, kullanıcıların Bill Gates'in **$100 milyar** parasını hayali ür�
 - CSS ile temel stil düzenlemeleri
 - JavaScript
 
+![Bill-Gates-Proje](https://github.com/user-attachments/assets/82047eec-8325-4082-a411-a9a07241416d)
