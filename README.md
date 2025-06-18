@@ -1,12 +1,22 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 💸 Spend Bill Gates' Money - React Uygulaması
 
-Currently, two official plugins are available:
+Bu proje, kullanıcıların Bill Gates'in **$100 milyar** parasını hayali ürünler satın alarak "harcayabileceği" eğlenceli bir React uygulamasıdır.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Özellikler
 
-## Expanding the ESLint configuration
+- Başlangıçta **$100,000,000,000** sanal bakiye tanımlıdır.
+- Kullanıcı, listelenen ürünleri "Buy" butonuna tıklayarak satın alabilir.
+- Satın alma işlemiyle birlikte bakiye otomatik olarak güncellenir.
+- Satın alınan ürünlerden "Sell" butonuyla satış yapılabilir; Gates’in bakiyesi artar.
+- Bakiye, ürün fiyatından düşükse **Buy** butonu devre dışı kalır.
+- Ürün hiç alınmamışsa **Sell** butonu devre dışıdır.
+- Satın alınan tüm ürünler ekranın altında **adet ve toplam fiyat** bilgisiyle özetlenir.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Kullanılan Teknolojiler
+
+- React (useState ile durum yönetimi)
+- CSS ile temel stil düzenlemeleri
+- JavaScript
+
